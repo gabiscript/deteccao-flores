@@ -93,7 +93,3 @@ Once the model is trained, you can use it to classify new flower images.
     ```
 
 This will output the predicted flower type along with the confidence score.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
